@@ -1,0 +1,3 @@
+module github.com/longaosky/hello-world
+
+go 1.24.5
